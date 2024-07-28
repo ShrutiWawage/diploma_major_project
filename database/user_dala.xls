@@ -1,0 +1,274 @@
+<table class="table table-bordered">
+				<thead>
+					<tr><th>S_n</th>
+					<th>Id_code</th>
+						<th>Name</th>
+						<th>PA1</th>
+						<th>PA2</th>
+						<th>Average</th>
+						<th>Microproject</th>
+						<th>PA/30</th>
+						<th>Ext</th>
+						<th>TW</th>
+</tr>
+
+</thead>
+
+<tbody>
+
+
+<tr>
+	<td>1</td>
+
+<td>20CM001</td>
+
+<td>AWACHAR ABHAY SANTOSH</td>
+
+<td>14</td>
+
+<td>19</td>
+
+<td>17</td>
+
+<td>9</td>
+
+<td>26</td>
+
+<td></td>
+
+<td>22</td>
+
+</tr>
+
+
+<tr>
+	<td>2</td>
+
+<td>20CM002</td>
+
+<td>BOCHARE CHETAN LAXAMANRAO</td>
+
+<td>14</td>
+
+<td>19</td>
+
+<td>17</td>
+
+<td>9</td>
+
+<td>26</td>
+
+<td></td>
+
+<td>23</td>
+
+</tr>
+
+
+<tr>
+	<td>3</td>
+
+<td>20CM003</td>
+
+<td>BORODE SHREYA VILAS</td>
+
+<td>14</td>
+
+<td>19</td>
+
+<td>20</td>
+
+<td>10</td>
+
+<td>30</td>
+
+<td></td>
+
+<td>24</td>
+
+</tr>
+
+
+<tr>
+	<td>4</td>
+
+<td>20CM004</td>
+
+<td>CHAITANYA VIJAY PARASKAR</td>
+
+<td>14</td>
+
+<td>19</td>
+
+<td>20</td>
+
+<td>10</td>
+
+<td>30</td>
+
+<td></td>
+
+<td>22</td>
+
+</tr>
+
+
+<tr>
+	<td>5</td>
+
+<td>20CM005</td>
+
+<td>CHAUDHARY DHANSHRI VISHWASRAO</td>
+
+<td>14</td>
+
+<td>19</td>
+
+<td>18</td>
+
+<td>9</td>
+
+<td>27</td>
+
+<td></td>
+
+<td>22</td>
+
+</tr>
+
+
+<tr>
+	<td>6</td>
+
+<td>20CM007</td>
+
+<td>DESHMUKH PURVA MANGESH</td>
+
+<td>14</td>
+
+<td>19</td>
+
+<td>20</td>
+
+<td>9</td>
+
+<td>29</td>
+
+<td></td>
+
+<td>22</td>
+
+</tr>
+
+
+<tr>
+	<td>7</td>
+
+<td>20CM008</td>
+
+<td>DESHMUKH SRUSHTI MANOJ</td>
+
+<td>14</td>
+
+<td>19</td>
+
+<td>10</td>
+
+<td>9</td>
+
+<td>19</td>
+
+<td></td>
+
+<td>22</td>
+
+</tr>
+
+
+<tr>
+	<td>8</td>
+
+<td>20CM009</td>
+
+<td>DHOKE DIVYA PANJABRAO</td>
+
+<td>14</td>
+
+<td>19</td>
+
+<td>18</td>
+
+<td>9</td>
+
+<td>27</td>
+
+<td></td>
+
+<td>22</td>
+
+</tr>
+
+
+<tr>
+	<td>9</td>
+
+<td>20CM010</td>
+
+<td>GAJBIYE SHREYASH</td>
+
+<td>14</td>
+
+<td>19</td>
+
+<td>20</td>
+
+<td>9</td>
+
+<td>29</td>
+
+<td></td>
+
+<td>22</td>
+
+</tr>
+
+
+<tr>
+	<td>10</td>
+
+<td>20CM011</td>
+
+<td>GAYAKWAD SAKSHI TUKARAM</td>
+
+<td>14</td>
+
+<td>19</td>
+
+<td>20</td>
+
+<td>9</td>
+
+<td>29</td>
+
+<td></td>
+
+<td>22</td>
+
+</tr>
+
+
+</tbody>
+
+</table>
+
+<div class="text-center">
+	<a href="user_data_download.php" class="btn btn-primary" target="-blank">Data Export</a>
+</div>
+	
+</div>
+
+</div>
+
+</body>
+
+</html>
